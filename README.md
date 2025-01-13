@@ -1,1 +1,1 @@
-# yolov5l-train
+# yolov5l-detect
